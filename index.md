@@ -1,5 +1,7 @@
 # Curso de Selenium com Python
 
+Bem vindos ao curso de selenium com python. A ideia desse curso é abordar o básico sobre várias frentes do selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenolvimento ou de qualidade em geral. O curso vai contar com aulas gravas e aulas ao vivo.
+
 ### Para quem esse curso foi feito?
 
 A ideia principal desse curso é ajudar pessoas. Se você tem interesse em aprender mais sobre Selenium, esse curso é feito para você. Se você trabalha como QA ou como QE e precisa melhorar suas habilidades com testes automatizados, você está no lugar certo. Se você é uma pessoa que desenvolve software e gostaria de fazer testes de integrações melhores, esse curso também é pra você. Se você trabalha como DevOps e precisa entender mais sobre arquiteturas baseadas em selenium para ajudar seu time, esse curso também é pra você. Se você gosta de fazer web scrapping e acha que o selenium pode te ajudar em momentos difíceis, esse curso também é para você. Se você é apenas uma pessoa curiosa e cansada de trabalhos repetitivos e quer automatizar tudo, sim, esse curso também é pra você.
