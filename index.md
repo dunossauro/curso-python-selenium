@@ -31,21 +31,21 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
   - Aula 5 - Procurando e interagindo com elementos p.1
   - Aula 6 - Procurando e interagindo com elementos p.2
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 4 -
-  - Aula 7 - Aula
+- Semana 4 - Interação com as páginas p.2
+  - Aula 7 - Clicando e arrastando (Drag and Drop)
   - Aula 8 - Aula
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 5 -
-  - Aula 9 - Aula
-  - Aula 10 - Aula
+- Semana 5 - Waits
+  - Aula 9 - Esperando elementos serem carregados
+  - Aula 10 - Condições especiais para esperas
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 6 -
+- Semana 6 - Page Objects
   - Aula 11 - Aula
   - Aula 12 - Aula
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 7 -
-  - Aula 13 - Aula
-  - Aula 14 - Aula
+- Semana 7 - WebDriver Remoto
+  - Aula 13 - Selenium Grid
+  - Aula 14 - Docker-selenium
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 8 -
   - Aula 15 - Aula
