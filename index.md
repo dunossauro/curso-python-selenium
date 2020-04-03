@@ -40,12 +40,12 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
   - Aula 10 - Condições especiais para esperas
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 6 - Page Objects
-  - Aula 11 - Aula
-  - Aula 12 - Aula
+  - Aula 11 - Definindo nossa primeira página com o padrão
+  - Aula 12 - Herança entre padrões de páginas
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 7 - WebDriver Remoto
+- Semana 7 - WebDriver Remoto e infraestrutura
   - Aula 13 - Selenium Grid
-  - Aula 14 - Docker-selenium
+  - Aula 14 - Docker + Selenium
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 8 - Bibliotecas alternativas ao selenium webdriver
   - Aula 15 - Splinter
