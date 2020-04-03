@@ -1,6 +1,9 @@
 # Curso de Selenium com Python
 
-Bem vindos ao curso de selenium com python. A ideia desse curso é abordar o básico sobre várias frentes do selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenolvimento ou de qualidade em geral. O curso vai contar com aulas gravas e aulas ao vivo.
+Bem vindos ao curso de selenium com python. A ideia desse curso é abordar o básico sobre várias frentes do selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenvolvimento ou de qualidade em geral. O curso vai contar com aulas gravadas e aulas ao vivo.
+
+Espero que você goste e compartilhe com o máximo de pessoas que puder. Eu acredito que o conhecimento deve ser compartilhado de forma aberta e livre. Por isso todo esse curso será gratuito e terá licenças abertas, para garantir que você possa usar esse material para todo e qualquer fim.
+
 
 ### Para quem esse curso foi feito?
 
@@ -12,11 +15,11 @@ SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento col
 
 ### Posso compartilhar como todas as minhas amigas e amigos?
 
-Claro que sim, acreditamos que a abundancia é a melhor solução para ajudar a todas as pessoas.
+Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a todas as pessoas.
 
 ### Duração do curso
 
-A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuidas em semanas. Sendo uma aula feita via upload no youtube, para que você possa assistir, voltar, rever e compartilhar. E também teremos sessões de dúvidas semanais, onde faremos uma live para aplicar o que vimos na aula teórica em conjunto e com toda disposição para responder as dúvidas de todos.
+A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuídas em semanas. Sendo uma aula feita via upload no youtube, para que você possa assistir, voltar, rever e compartilhar. E também teremos sessões de dúvidas semanais, onde faremos uma live para aplicar o que vimos na aula teórica em conjunto e com toda disposição para responder às dúvidas de todos.
 
 
 ### Programação - (trabalho em progresso)
