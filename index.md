@@ -17,7 +17,7 @@ Claro que sim, acreditamos que a abundancia é a melhor solução para ajudar a 
 A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuidas em semanas. Sendo uma aula feita via upload no youtube, para que você possa assistir, voltar, rever e compartilhar. E também teremos sessões de dúvidas semanais, onde faremos uma live para aplicar o que vimos na aula teórica em conjunto e com toda disposição para responder as dúvidas de todos.
 
 
-### Ementa - (trabalho em progresso)
+### Programação - (trabalho em progresso)
 - Semana 1 - Introdução ao curso + Selenium
   - **Ao vivo** - Apresentação do curso
   - Aula 1 - Configurando o seu ambiente
