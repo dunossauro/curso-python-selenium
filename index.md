@@ -33,7 +33,7 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 4 - Interação com as páginas p.2
   - Aula 7 - Clicando e arrastando (Drag and Drop)
-  - Aula 8 - Aula
+  - Aula 8 - Interagindo com alertas, frames e abas
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 5 - Waits
   - Aula 9 - Esperando elementos serem carregados
