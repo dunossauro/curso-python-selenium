@@ -47,9 +47,9 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
   - Aula 13 - Selenium Grid
   - Aula 14 - Docker-selenium
   - **AO VIVO** - Dúvidas e aplicações
-- Semana 8 -
-  - Aula 15 - Aula
-  - Aula 16 - Aula
+- Semana 8 - Bibliotecas alternativas ao selenium webdriver
+  - Aula 15 - Splinter
+  - Aula 16 - Selene
   - **AO VIVO** - Finalização do curso :(
 
 
