@@ -4,6 +4,8 @@ Bem vindos ao curso de Selenium com Python. A ideia desse curso é abordar o bá
 
 Espero que você goste e compartilhe com o máximo de pessoas que puder. Eu acredito que o conhecimento deva ser compartilhado de forma aberta e livre. Por isso todo esse curso será gratuito e terá licenças abertas, para garantir que você possa usar esse material para todo e qualquer fim.
 
+Você também pode se juntar a todas as outras pessoas interessadas no curso, na nossa comunidade no Telegram [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium). Um espaço colaborativo, para trocarmos ideias sobre Selenium, Python, fazer novos amigos e aprendermos juntos durante o curso.
+
 
 ### Para quem esse curso foi feito?
 
