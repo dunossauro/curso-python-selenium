@@ -6,7 +6,7 @@ A ideia principal desse curso é ajudar pessoas. Se você tem interesse em apren
 
 ### O curso é totalmente grátis?
 
-SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento coletivo no apoia.se [https://apoia.se/livedepython](https://apoia.se/livedepython) onde isso faz o fomento de toda a atividade do meu canal no youtube e também tem um picpay [@livedepython] caso você não queira contribuir continuamente.
+SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento coletivo no apoia.se [https://apoia.se/livedepython](https://apoia.se/livedepython) onde isso faz o fomento de toda a atividade do meu canal no youtube e também tem um picpay [@livedepython](https://picpay.me/livedepython) caso você não queira contribuir continuamente.
 
 ### Posso compartilhar como todas as minhas amigas e amigos?
 
