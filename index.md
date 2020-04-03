@@ -6,7 +6,7 @@ A ideia principal desse curso é ajudar pessoas. Se você tem interesse em apren
 
 ### O curso é totalmente grátis?
 
-SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento coletivo no apoia.se (https://apoia.se/livedepython) onde isso faz o fomento de toda a atividade do meu canal no youtube e também tem um picpay (@livedepython) caso você não queira contribuir continuamente.
+SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento coletivo no apoia.se [https://apoia.se/livedepython](https://apoia.se/livedepython) onde isso faz o fomento de toda a atividade do meu canal no youtube e também tem um picpay [@livedepython] caso você não queira contribuir continuamente.
 
 ### Posso compartilhar como todas as minhas amigas e amigos?
 
@@ -30,7 +30,7 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
 
 | Local               | Link                              |
 |:--------------------|:----------------------------------|
-| Grupo no telegram   | https://t.me/cursopythonselenium  |
-| Canal no Youtube    | https://youtube.com/eduardomendes |
-| Playlist no Youtube | https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B |
-| Twitter             | https://twitter.com/dunossauro/ |
+| Grupo no telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium)  |
+| Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes) |
+| Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
+| Twitter             | [https://twitter.com/dunossauro/](https://twitter.com/dunossauro/) |
