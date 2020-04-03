@@ -61,4 +61,4 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
 | Grupo no telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium)  |
 | Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes) |
 | Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
-| Twitter             | [https://twitter.com/dunossauro/](https://twitter.com/dunossauro/) |
+| Twitter             | [@dunossauro](https://twitter.com/dunossauro/) |
