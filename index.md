@@ -18,11 +18,39 @@ A ideia do curso é ser ministrado em 2 meses. Mas as aulas vão ser distribuida
 
 
 ### Ementa - (trabalho em progresso)
-- Aula 0 - Apresentação do curso
-- Aula 1 - Configurando o seu ambiente
-- Aula 2 - Diferentes frentes com Selenium
-- Aula 3 - Minha primeira automação usando Selenium
-- Aula ...
+- Semana 1 - Introdução ao curso + Selenium
+  - **Ao vivo** - Apresentação do curso
+  - Aula 1 - Configurando o seu ambiente
+  - Aula 2 - Diferentes frentes com Selenium
+- Semana 2 - Primeiros passos
+  - Aula 3 - Minha primeira automação usando Selenium
+  - Aula 4 - Navegação e atributos
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 3 - Interação com as páginas
+  - Aula 5 - Procurando e interagindo com elementos
+  - Aula 6 - Aula
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 4 -
+  - Aula 7 - Aula
+  - Aula 8 - Aula
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 5 -
+  - Aula 9 - Aula
+  - Aula 10 - Aula
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 6 -
+  - Aula 11 - Aula
+  - Aula 12 - Aula
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 7 -
+  - Aula 13 - Aula
+  - Aula 14 - Aula
+  - **Ao vivo** - Dúvidas e aplicações
+- Semana 8 -
+  - Aula 15 - Aula
+  - Aula 16 - Aula
+  - **Ao vivo** - Finalização do curso :(
+
 
 ### Datas - (Datas a definir)
 
