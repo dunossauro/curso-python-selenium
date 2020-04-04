@@ -63,7 +63,67 @@ A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. 
   - **AO VIVO** - Finalização do curso :(
 
 
-### Datas - (Datas a definir)
+### Datas
+
+#### Semana 1
+| Data       | Dia     | Horário | Tipo        | Evento |
+|:-----------|:--------|:--------|:------------|:-------|
+| 21/04/2020 | Terça   | 22:00   | **Ao vivo** | Abertura do curso |
+| 22/04/2020 | Quarta  | 22:00   | **Ao vivo** |Palestra com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/) |
+| 23/04/2020 | Quinta  | 14:00   | Gravado     | Aula 1 |
+| 25/04/2020 | Sábado  | 14:00   | Gravado     | Aula 2 |
+| 25/04/2020 | Domingo | 14:00   | Gravado     | Introdução ao python |
+
+#### Semana 2
+| Data       | Dia     | Horário | Tipo        | Evento |
+|:-----------|:--------|:--------|:------------|:-------|
+| 28/04/2020 | Terça   | 14:00   | Gravado     | Aula 3 |
+| 30/04/2020 | Quinta  | 14:00   | Gravado     | Aula 4 |
+| 02/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 3
+| Data       | Dia     | Horário | Tipo        | Evento |
+|:-----------|:--------|:--------|:------------|:-------|
+| 05/05/2020 | Terça   | 14:00   | Gravado     | Aula 5 |
+| 06/05/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [Renne Rocha](https://twitter.com/rennerocha) |
+| 07/05/2020 | Quinta  | 14:00   | Gravado     | Aula 6 |
+| 09/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 4
+| Data       | Dia     | Horário | Tipo        | Evento |
+|:-----------|:--------|:--------|:------------|:-------|
+| 12/05/2020 | Terça   | 14:00   | Gravado     | Aula 7 |
+| 14/05/2020 | Quinta  | 14:00   | Gravado     | Aula 8 |
+| 16/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 5
+| Data       | Dia     | Horário | Tipo        | Evento  |
+|:-----------|:--------|:--------|:------------|:--------|
+| 19/05/2020 | Terça   | 14:00   | Gravado     | Aula 9  |
+| 21/05/2020 | Quinta  | 14:00   | Gravado     | Aula 10 |
+| 23/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 6
+| Data       | Dia     | Horário | Tipo        | Evento  |
+|:-----------|:--------|:--------|:------------|:--------|
+| 26/05/2020 | Terça   | 14:00   | Gravado     | Aula 11 |
+| 28/05/2020 | Quinta  | 14:00   | Gravado     | Aula 12 |
+| 30/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 7
+| Data       | Dia     | Horário | Tipo        | Evento  |
+|:-----------|:--------|:--------|:------------|:--------|
+| 02/06/2020 | Terça   | 14:00   | Gravado     | Aula 13 |
+| 03/06/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [@gomex](https://twitter.com/gomex) |
+| 04/06/2020 | Quinta  | 14:00   | Gravado     | Aula 14 |
+| 06/06/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+
+#### Semana 8
+| Data       | Dia     | Horário | Tipo        | Evento  |
+|:-----------|:--------|:--------|:------------|:--------|
+| 09/06/2020 | Terça   | 14:00   | Gravado     | Aula 15 |
+| 11/06/2020 | Quinta  | 14:00   | Gravado     | Aula 16 |
+| 13/06/2020 | Sábado  | 14:00   | **Ao vivo** | Finalização :( |
 
 ### Contatos
 
