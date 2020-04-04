@@ -73,7 +73,7 @@ A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. 
 | 22/04/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/) |
 | 23/04/2020 | Quinta  | 14:00   | Gravado     | Aula 1 |
 | 25/04/2020 | Sábado  | 14:00   | Gravado     | Aula 2 |
-| 25/04/2020 | Domingo | 14:00   | Gravado     | Introdução ao python |
+| 26/04/2020 | Domingo | 14:00   | Gravado     | Introdução ao python |
 
 #### Semana 2
 
