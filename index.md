@@ -25,9 +25,10 @@ A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. 
 
 
 ### Programação - (trabalho em progresso)
-- Semana 1 - Introdução ao curso + Selenium
+- Semana 1 - Introdução e configuração do ambiente
   - **AO VIVO** - Apresentação do curso
   - Aula 1 - Configurando o seu ambiente
+  - **EXTRA** - Conhecendo a importancia de testes de QA com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/)
   - Aula 2 - Diferentes frentes com Selenium
   - **EXTRA** - Uma introdução ao Python
 - Semana 2 - Primeiros passos
@@ -36,6 +37,7 @@ A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. 
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 3 - Interação com as páginas
   - Aula 5 - Procurando e interagindo com elementos p.1
+  - **EXTRA** - Conhecendo XPATH com [Renne Rocha](https://twitter.com/rennerocha)
   - Aula 6 - Procurando e interagindo com elementos p.2
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 4 - Interação com as páginas p.2
@@ -47,11 +49,12 @@ A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. 
   - Aula 10 - Condições especiais para esperas
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 6 - Page Objects
-  - Aula 11 - Definindo nossa primeira página com o padrão
+  - Aula 11 - Definindo nossa primeira página com o padrão page object
   - Aula 12 - Herança entre padrões de páginas
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 7 - WebDriver Remoto e infraestrutura
   - Aula 13 - Selenium Grid
+  - **EXTRA** - Conhecendo Docker com [@gomex](https://twitter.com/gomex)
   - Aula 14 - Docker + Selenium
   - **AO VIVO** - Dúvidas e aplicações
 - Semana 8 - Bibliotecas alternativas ao Selenium
