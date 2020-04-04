@@ -24,7 +24,7 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. Serão duas aulas gravadas no youtube, para que você possa assistir, voltar, rever e compartilhar. E também terão sessões ao vivo para responder dúvidas, aplicando o que vimos nas aulas gravadas.
 
 
-### Programação - (Sugeito a alterações)
+### Programação - (Sujeito a alterações)
 - Semana 1 - Introdução e configuração do ambiente
   - **AO VIVO** - Apresentação do curso
   - Aula 1 - Configurando o seu ambiente
