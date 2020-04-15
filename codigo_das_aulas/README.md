@@ -5,8 +5,8 @@ Nessa parte do repositório você vai encontrar os códigos completos usados dur
 
 ## Códigos
 
-- [Aula 01](aula_01/)
-- [Aula 02](aula_02/)
+- Aula 01 - Não houve código
+- Aula 02 - Não houve código
 - [Aula 03](aula_03/)
 - [Aula 04](aula_04/)
 - [Aula 05](aula_05/)
