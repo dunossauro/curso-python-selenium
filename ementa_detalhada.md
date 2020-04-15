@@ -11,18 +11,29 @@
 - Explicações sobre Selenium
   - História
   - Usos comuns
+- Como o selenium funciona?
+  - Json wire
+  - HTTP server
 - Selenium IDE
 - Selenium WebDriver
 - Selenium Grid
 
 ## Aula 3 - Minha primeira automação usando Selenium
-- Preenchendo um formulário com selenium
-- Noções de busca e interações com elementos nas páginas
-- Básico de navegação
-- Básico de interações com elementos
-  - Find
-  - Send keys
-  - Click
+1. Browser e HTML
+  - Entendendo o DOM
+    - Document
+    - HTML básico
+2. Teoria sobre Selenium
+  - WebElement
+  - WebDriver
+3. Nossa primeira automação
+  - Preenchendo um formulário com selenium
+  - Noções de busca e interações com elementos nas páginas
+  - Básico de navegação
+  - Básico de interações com elementos
+    - Find
+    - Send keys
+    - Click
 
 ## Aula 4 - Navegação e atributos
 - Como saber onde estou?
