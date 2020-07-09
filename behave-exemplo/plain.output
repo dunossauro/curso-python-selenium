@@ -1,0 +1,33 @@
+Funcionalidade: Todo List
+
+  Cenário: Criar um cartão de todo
+    Dado que eu esteja na página "todo" ... passed in 0.710s
+    Quando criar um todo ... passed in 0.885s
+      """
+        {
+          "nome": "Dormir",
+          "descrição": "é bom"
+        }
+      """
+    Então o todo deve estar na pilha "A fazer" ... passed in 0.042s
+
+  Cenário: Criar dois cartões de todo
+    Dado que eu esteja na página "todo" ... passed in 0.472s
+    Quando criar os seguintes todos ... passed in 0.559s
+      | nome   | descrição   |
+      | Dormir | é bom       |
+      | Comer  | Ao meio dia |
+    Então o cartão deve estar na pilha "A fazer" ... passed in 0.056s
+      | nome   | descrição |
+      | Dormir | é bom     |
+
+  Cenário: Criar cartão urgente
+    Dado que eu esteja na página "todo" ... passed in 0.533s
+    Quando criar os seguintes todos ... passed in 0.762s
+      | nome   | descrição   | urgente |
+      | dormir | é bom       | não     |
+      | comer  | ao meio dia | sim     |
+    Então o cartão deve estar no topo da pilha "A fazer" ... passed in 0.087s
+      | nome  | descrição   |
+      | comer | ao meio dia |
+
