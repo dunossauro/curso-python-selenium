@@ -19,125 +19,60 @@ SIM <3. Mas você pode ajudar se quiser, temos uma campanha de financiamento col
 
 Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a todas as pessoas.
 
-### Duração do curso
+### Aulas ministradas
+- Apresentação do curso
+- Aula 1 - Configurando o seu ambiente
+  - [Configuração no Linux](https://www.youtube.com/watch?v=XUeu4ZzQNUI)
+  - [Configuração no Windows](https://youtu.be/XUeu4ZzQNUI)
+- [Aula 2 - O que é selenium?](https://www.youtube.com/watch?v=wiA6PBz0Xu0)
+- [Aula 3 - Minha primeira automação](https://www.youtube.com/watch?v=Pax0jiAcTWs)
+- [Aula 4 - Navegação e atributos](https://www.youtube.com/watch?v=H6D8EFSGml0)
+- [Aula 5 - Procurando e interagindo com elementos p.1](https://www.youtube.com/watch?v=KqNTFAgDTrw)
+- [Aula 6 - Procurando e interagindo com elementos p.2](https://www.youtube.com/watch?v=wF3USvFE67Y)
+- [Aula 7 - Eventos p.1 (EventListener)](https://www.youtube.com/watch?v=G5xdDPBKzkI)
+- [Aula 8 - Eventos p.2 (ActionChains)](https://www.youtube.com/watch?v=xM8sNio2NkA)
+- [Aula 9 - Waits p.1](https://www.youtube.com/watch?v=tMHf6GZ_y2A)
+- [Aula 10 - Waits p.2 (Expected Conditions)](https://www.youtube.com/watch?v=aza1vaq0uns)
+- [Aula 11 - Interagindo com Janelas, abas, alertas e frames](https://www.youtube.com/watch?v=f7Goh4LpHdM)
+- [Aula 12 - Padrão Page Objects p.1](https://www.youtube.com/watch?v=WhZHZ_RYzxw)
+- [Aula 13 - Padrão Page Objects p.2](https://www.youtube.com/watch?v=KM90nnkt-5w)
+- [Aula 14 - Selenium Grid](https://www.youtube.com/watch?v=dnF5QbcBXRk)
+- [Aula 15 - Selenium docker](https://www.youtube.com/watch?v=LC9rhxuoUtA)
+- [Aula 16 - Splinter](https://www.youtube.com/watch?v=o3Yl2EdPFdQ)
 
-A ideia é ministrar o curso em 2 meses. O conteúdo será dividido em semanas. Serão duas aulas gravadas no youtube, para que você possa assistir, voltar, rever e compartilhar. E também terão sessões ao vivo para responder dúvidas, aplicando o que vimos nas aulas gravadas.
+## Próximas datas
+- Aula 17 - Selene - 04 de agosto de 2020 às 14hrs
+- Finalização do curso :( - 11 de agosto de 2020 às 22hrs
 
+## Palestas com convidados
 
-### Programação - (Sujeito a alterações)
-- Semana 1 - Introdução e configuração do ambiente
-  - **AO VIVO** - Apresentação do curso
-  - Aula 1 - Configurando o seu ambiente
-  - **EXTRA** - Conhecendo a importancia de testes de QA com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/)
-  - Aula 2 - Diferentes frentes com Selenium
-  - **EXTRA** - Uma introdução ao Python
-- Semana 2 - Primeiros passos
-  - Aula 3 - Minha primeira automação usando Selenium
-  - Aula 4 - Navegação e atributos
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 3 - Interação com as páginas
-  - Aula 5 - Procurando e interagindo com elementos p.1
-  - **EXTRA** - Conhecendo XPATH com [Renne Rocha](https://twitter.com/rennerocha)
-  - Aula 6 - Procurando e interagindo com elementos p.2
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 4 - Interação com as páginas p.2
-  - Aula 7 - Clicando e arrastando (Drag and Drop)
-  - Aula 8 - Interagindo com alertas, frames e abas
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 5 - Waits
-  - Aula 9 - Esperando elementos serem carregados
-  - Aula 10 - Condições especiais para esperas
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 6 - Page Objects
-  - Aula 11 - Definindo nossa primeira página com o padrão page object
-  - Aula 12 - Herança entre padrões de páginas
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 7 - WebDriver Remoto e infraestrutura
-  - Aula 13 - Selenium Grid
-  - **EXTRA** - Conhecendo Docker com [@gomex](https://twitter.com/gomex)
-  - Aula 14 - Docker + Selenium
-  - **AO VIVO** - Dúvidas e aplicações
-- Semana 8 - Bibliotecas alternativas ao Selenium
-  - Aula 15 - Splinter
-  - Aula 16 - Selene
-  - **AO VIVO** - Finalização do curso :(
+- Conhecendo a importância de testes de QA com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/)
+- Conhecendo XPATH com [Renne Rocha](https://twitter.com/rennerocha) - https://www.youtube.com/watch?v=vuLNc2yCNYk
 
 
-### Datas
+## Aulas extras
+- [BDD com Behave](https://www.youtube.com/watch?v=BMrDPStzHcI)
 
-#### Semana 1
 
-| Data       | Dia     | Horário | Tipo        | Evento |
-|:-----------|:--------|:--------|:------------|:-------|
-| 21/04/2020 | Terça   | 22:00   | **Ao vivo** | Abertura do curso |
-| 22/04/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/) |
-| 23/04/2020 | Quinta  | 14:00   | Gravado     | Aula 1 |
-| 25/04/2020 | Sábado  | 14:00   | Gravado     | Aula 2 |
-| 26/04/2020 | Domingo | 14:00   | Gravado     | Introdução ao python |
+## Resoluções dos exercícios (WIP)
+- [Resolução 1 - Exercícios de X a Y](https://www.youtube.com/watch?v=iLSgkWdepfA)
+- [Resolução 2 - Exercícios de X a Y](https://www.youtube.com/watch?v=iLSgkWdepfA)
+- Resolução 3 - Exercícios de X a Y
 
-#### Semana 2
 
-| Data       | Dia     | Horário | Tipo        | Evento |
-|:-----------|:--------|:--------|:------------|:-------|
-| 28/04/2020 | Terça   | 14:00   | Gravado     | Aula 3 |
-| 30/04/2020 | Quinta  | 14:00   | Gravado     | Aula 4 |
-| 02/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+## Procedimento para o certificado - EM PROGRESSO
 
-#### Semana 3
+- [certificado](./certificado.md)
 
-| Data       | Dia     | Horário | Tipo        | Evento |
-|:-----------|:--------|:--------|:------------|:-------|
-| 05/05/2020 | Terça   | 14:00   | Gravado     | Aula 5 |
-| 06/05/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [Renne Rocha](https://twitter.com/rennerocha) |
-| 07/05/2020 | Quinta  | 14:00   | Gravado     | Aula 6 |
-| 09/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
+## Páginas usadas durante o curso
 
-#### Semana 4
-
-| Data       | Dia     | Horário | Tipo        | Evento |
-|:-----------|:--------|:--------|:------------|:-------|
-| 12/05/2020 | Terça   | 14:00   | Gravado     | Aula 7 |
-| 14/05/2020 | Quinta  | 14:00   | Gravado     | Aula 8 |
-| 16/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
-
-#### Semana 5
-
-| Data       | Dia     | Horário | Tipo        | Evento  |
-|:-----------|:--------|:--------|:------------|:--------|
-| 19/05/2020 | Terça   | 14:00   | Gravado     | Aula 9  |
-| 21/05/2020 | Quinta  | 14:00   | Gravado     | Aula 10 |
-| 23/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
-
-#### Semana 6
-
-| Data       | Dia     | Horário | Tipo        | Evento  |
-|:-----------|:--------|:--------|:------------|:--------|
-| 26/05/2020 | Terça   | 14:00   | Gravado     | Aula 11 |
-| 28/05/2020 | Quinta  | 14:00   | Gravado     | Aula 12 |
-| 30/05/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
-
-#### Semana 7
-
-| Data       | Dia     | Horário | Tipo        | Evento  |
-|:-----------|:--------|:--------|:------------|:--------|
-| 02/06/2020 | Terça   | 14:00   | Gravado     | Aula 13 |
-| 03/06/2020 | Quarta  | 22:00   | **Ao vivo** | Palestra com [@gomex](https://twitter.com/gomex) |
-| 04/06/2020 | Quinta  | 14:00   | Gravado     | Aula 14 |
-| 06/06/2020 | Sábado  | 14:00   | **Ao vivo** | Dúvidas e aplicações |
-
-#### Semana 8
-
-| Data       | Dia     | Horário | Tipo        | Evento  |
-|:-----------|:--------|:--------|:------------|:--------|
-| 09/06/2020 | Terça   | 14:00   | Gravado     | Aula 15 |
-| 11/06/2020 | Quinta  | 14:00   | Gravado     | Aula 16 |
-| 13/06/2020 | Sábado  | 14:00   | **Ao vivo** | Finalização :( |
+Todas as páginas usadas durante o curso estão hospedadas no link http://selenium.dunossauro.live e estão no repositório https://github.com/dunossauro/curso-python-selenium-pages
 
 ### Contatos
 
 | Local               | Link                              |
 |:--------------------|:----------------------------------|
-| Grupo no Telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium)  |
+| Grupo no Telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium) |
 | Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes) |
 | Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
 | Twitter             | [@dunossauro](https://twitter.com/dunossauro/) |
