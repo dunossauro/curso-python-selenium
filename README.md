@@ -39,19 +39,19 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 - [Aula 14 - Selenium Grid](https://www.youtube.com/watch?v=dnF5QbcBXRk)
 - [Aula 15 - Selenium docker](https://www.youtube.com/watch?v=LC9rhxuoUtA)
 - [Aula 16 - Splinter](https://www.youtube.com/watch?v=o3Yl2EdPFdQ)
+- [Aula 17 - Selene](https://youtu.be/EF46F_nR79c)
 
 ## Próximas datas
-- Aula 17 - Selene - 04 de agosto de 2020 às 14hrs
-- Finalização do curso :( - 11 de agosto de 2020 às 22hrs
+- Finalização do curso :( - 18 de agosto de 2020 às 22hrs
 
 ## Palestas com convidados
-
 - Conhecendo a importância de testes de QA com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/)
 - Conhecendo XPATH com [Renne Rocha](https://twitter.com/rennerocha) - https://www.youtube.com/watch?v=vuLNc2yCNYk
 
 
 ## Aulas extras
 - [BDD com Behave](https://www.youtube.com/watch?v=BMrDPStzHcI)
+- [Pytest + Selenium](https://youtu.be/e-K_JK7ozFg)
 
 
 ## Resoluções dos exercícios (WIP)
