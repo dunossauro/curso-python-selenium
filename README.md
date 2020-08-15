@@ -37,7 +37,7 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 - [Aula 12 - Padrão Page Objects p.1](https://www.youtube.com/watch?v=WhZHZ_RYzxw)
 - [Aula 13 - Padrão Page Objects p.2](https://www.youtube.com/watch?v=KM90nnkt-5w)
 - [Aula 14 - Selenium Grid](https://www.youtube.com/watch?v=dnF5QbcBXRk)
-- [Aula 15 - Selenium docker](https://www.youtube.com/watch?v=LC9rhxuoUtA)
+- [Aula 15 - Selenium docker](https://youtu.be/k8GKoTpnDF0)
 - [Aula 16 - Splinter](https://www.youtube.com/watch?v=o3Yl2EdPFdQ)
 - [Aula 17 - Selene](https://youtu.be/EF46F_nR79c)
 
@@ -61,7 +61,6 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 
 
 ## Procedimento para o certificado - EM PROGRESSO
-
 - [certificado](./certificado.md)
 
 ## Páginas usadas durante o curso
