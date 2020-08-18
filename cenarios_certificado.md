@@ -1,16 +1,17 @@
 ## Criação de conta
 ```feature
+# language: pt
 Funcionalidade: Criação de conta
+  Contexto:
+    Dado que esteja na página de "register"
 
   Cenário: A aplicação deve redirecionar para a página de TODO ao registrar um usuário com sucesso
-    Dado que esteja na página de "register"
     Quando registrar minha conta
       | nome      | email         | senha |
       | Beto Cone | beto@cone.com | 123   |
     Então deverá ser redirecionado para a pagina de "todo"
 
   Cenário: A aplicação deve redirecionar para a página de register ao tentar cadastrar um usuário com e-mail já cadastrado
-    Dado que esteja na página de "register"
     Quando registrar minha conta
       | nome      | email         | senha |
       | Beto Cone | beto@cone.com | 123   |
@@ -23,11 +24,30 @@ Funcionalidade: Criação de conta
       """
       Algo deu errado!
       """
+
+  Cenário: Mensagens do formulário
+    Quando coloco o foco no campo de nome
+    Então a mensagem de deverá ser exibida
+      """
+      Lembre-se de colocar um nome falso
+      """
+
+    Quando coloco o foco no campo de email
+    Então a mensagem de deverá ser exibida
+      """
+      Se for válido, todo mundo vai saber
+      """
+    Quando coloco o foco no campo de senha
+    Então a mensagem de deverá ser exibida
+      """
+      Será que é seguro?
+      """
 ```
 
 ## Login
 
 ```feature
+# language: pt
 # language: pt
 Funcionalidade: Login
   Contexto: Oágina de login
@@ -43,6 +63,19 @@ Funcionalidade: Login
   Cenário: Login com credenciais válidas
     Quando logar com credenciais válidas
     Então deverá ser redirecionado para a pagina de "todo"
+
+  Cenário: Mensagens do formulário
+    Quando coloco o foco no campo de email
+    Então a mensagem de deverá ser exibida
+      """
+      Tá certo?
+      """
+
+    Quando coloco o foco no campo de senha
+    Então a mensagem de deverá ser exibida
+      """
+      Não vai errar
+      """
 ```
 
 ## Criação de tarefas
