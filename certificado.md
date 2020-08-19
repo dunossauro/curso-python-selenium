@@ -37,6 +37,9 @@ Fiz alguma descrição de cenários possíveis para você automatizar nesse docu
 ### Regras
 
 - É obrigatório o uso de Page Objects
+- É obrigatório que seu projeto rode em mais de um browser
+  - Você pode fazer isso da maneira que achar melhor usando grid, selenium-docker ou selenoid
+  - Essa parte você pode documentar no seu README, caso não consiga reproduzir em código
 - Independente da tecnologia que escolher para automatizar os arquivos de cada funcionalidade deve estar isolados. Por exemplo:
   - login.py
   - cadastro.py

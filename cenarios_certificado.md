@@ -1,6 +1,5 @@
 ## Criação de conta
 ```feature
-# language: pt
 Funcionalidade: Criação de conta
   Contexto:
     Dado que esteja na página de "register"
@@ -47,8 +46,6 @@ Funcionalidade: Criação de conta
 ## Login
 
 ```feature
-# language: pt
-# language: pt
 Funcionalidade: Login
   Contexto: Oágina de login
     Dado que esteja na página de "login"
@@ -81,7 +78,6 @@ Funcionalidade: Login
 ## Criação de tarefas
 
 ```feature
-# language: pt
 Funcionalidade: Criação de tarefas
   Contexto: Entrar na área logada
     Dado que esteja logado
@@ -123,7 +119,6 @@ Funcionalidade: Criação de tarefas
 ## Movimentação dos cartões
 
 ```feature
-# language: pt
 Funcionalidade: Movimentação de tarefas
   Contexto: Entrar na área logada e registrar tarefas
     Dado que esteja logado
