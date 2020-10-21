@@ -1,6 +1,6 @@
 # Curso de Selenium com Python
 
-Boas-vindas ao curso de Selenium com Python. A ideia desse curso é abordar o básico sobre várias frentes do Selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenvolvimento ou de qualidade em geral. O curso vai contar com aulas gravadas e ao vivo no meu canal no youtube [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes).
+Boas-vindas ao curso de Selenium com Python. A ideia desse curso é abordar o básico sobre várias frentes do Selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenvolvimento ou de qualidade em geral. O curso vai contar com aulas gravadas e ao vivo no meu canal no youtube [https://youtube.com/dunossauro](https://youtube.com/dunossauro).
 
 Espero que você goste e compartilhe com o máximo de pessoas que puder. Eu acredito que o conhecimento deva ser compartilhado de forma aberta e livre. Por isso todo esse curso será gratuito e terá licenças abertas, para garantir que você possa usar esse material para todo e qualquer fim.
 
@@ -72,6 +72,6 @@ Todas as páginas usadas durante o curso estão hospedadas no link http://seleni
 | Local               | Link                              |
 |:--------------------|:----------------------------------|
 | Grupo no Telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium) |
-| Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/dunossauro) |
+| Canal no Youtube    | [https://youtube.com/dunossauro](https://youtube.com/dunossauro) |
 | Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
 | Twitter             | [@dunossauro](https://twitter.com/dunossauro/) |
