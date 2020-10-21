@@ -72,6 +72,6 @@ Todas as páginas usadas durante o curso estão hospedadas no link http://seleni
 | Local               | Link                              |
 |:--------------------|:----------------------------------|
 | Grupo no Telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium) |
-| Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes) |
+| Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/dunossauro) |
 | Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
 | Twitter             | [@dunossauro](https://twitter.com/dunossauro/) |
