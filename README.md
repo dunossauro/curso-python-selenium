@@ -1,6 +1,6 @@
 # Curso de Selenium com Python
 
-Boas-vindas ao curso de Selenium com Python. A ideia desse curso é abordar o básico sobre várias frentes do Selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenvolvimento ou de qualidade em geral. O curso vai contar com aulas gravadas e ao vivo no meu canal no youtube [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes).
+Boas-vindas ao curso de Selenium com Python. A ideia desse curso é abordar o básico sobre várias frentes do Selenium e ajudar você que precisa desses conhecimentos a alavancar sua carreira. Seja na área de testes, de desenvolvimento ou de qualidade em geral. O curso vai contar com aulas gravadas e ao vivo no meu canal no youtube [https://youtube.com/dunossauro](https://youtube.com/dunossauro).
 
 Espero que você goste e compartilhe com o máximo de pessoas que puder. Eu acredito que o conhecimento deva ser compartilhado de forma aberta e livre. Por isso todo esse curso será gratuito e terá licenças abertas, para garantir que você possa usar esse material para todo e qualquer fim.
 
@@ -37,21 +37,21 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 - [Aula 12 - Padrão Page Objects p.1](https://www.youtube.com/watch?v=WhZHZ_RYzxw)
 - [Aula 13 - Padrão Page Objects p.2](https://www.youtube.com/watch?v=KM90nnkt-5w)
 - [Aula 14 - Selenium Grid](https://www.youtube.com/watch?v=dnF5QbcBXRk)
-- [Aula 15 - Selenium docker](https://www.youtube.com/watch?v=LC9rhxuoUtA)
+- [Aula 15 - Selenium docker](https://youtu.be/k8GKoTpnDF0)
 - [Aula 16 - Splinter](https://www.youtube.com/watch?v=o3Yl2EdPFdQ)
+- [Aula 17 - Selene](https://youtu.be/EF46F_nR79c)
 
 ## Próximas datas
-- Aula 17 - Selene - 04 de agosto de 2020 às 14hrs
-- Finalização do curso :( - 11 de agosto de 2020 às 22hrs
+- Finalização do curso :( - 18 de agosto de 2020 às 22hrs
 
 ## Palestas com convidados
-
 - Conhecendo a importância de testes de QA com [Mariana Elisa](https://www.linkedin.com/in/mariana-elisa-moises/)
 - Conhecendo XPATH com [Renne Rocha](https://twitter.com/rennerocha) - https://www.youtube.com/watch?v=vuLNc2yCNYk
 
 
 ## Aulas extras
 - [BDD com Behave](https://www.youtube.com/watch?v=BMrDPStzHcI)
+- [Pytest + Selenium](https://youtu.be/e-K_JK7ozFg)
 
 
 ## Resoluções dos exercícios (WIP)
@@ -61,7 +61,6 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 
 
 ## Procedimento para o certificado - EM PROGRESSO
-
 - [certificado](./certificado.md)
 
 ## Páginas usadas durante o curso
@@ -73,6 +72,6 @@ Todas as páginas usadas durante o curso estão hospedadas no link http://seleni
 | Local               | Link                              |
 |:--------------------|:----------------------------------|
 | Grupo no Telegram   | [https://t.me/cursopythonselenium](https://t.me/cursopythonselenium) |
-| Canal no Youtube    | [https://youtube.com/eduardomendes](https://youtube.com/eduardomendes) |
+| Canal no Youtube    | [https://youtube.com/dunossauro](https://youtube.com/dunossauro) |
 | Playlist no Youtube | [https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) |
 | Twitter             | [@dunossauro](https://twitter.com/dunossauro/) |
