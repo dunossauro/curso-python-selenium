@@ -23,7 +23,7 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 - Apresentação do curso
 - Aula 1 - Configurando o seu ambiente
   - [Configuração no Linux](https://www.youtube.com/watch?v=XUeu4ZzQNUI)
-  - [Configuração no Windows](https://youtu.be/XUeu4ZzQNUI)
+  - [Configuração no Windows](https://www.youtube.com/watch?v=rVCKZcFHu4A&t=2s)
 - [Aula 2 - O que é selenium?](https://www.youtube.com/watch?v=wiA6PBz0Xu0)
 - [Aula 3 - Minha primeira automação](https://www.youtube.com/watch?v=Pax0jiAcTWs)
 - [Aula 4 - Navegação e atributos](https://www.youtube.com/watch?v=H6D8EFSGml0)
