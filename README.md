@@ -55,8 +55,8 @@ Claro que sim, acreditamos que a abundância é a melhor solução para ajudar a
 
 
 ## Resoluções dos exercícios (WIP)
-- [Resolução 1 - Exercícios de X a Y](https://www.youtube.com/watch?v=iLSgkWdepfA)
-- [Resolução 2 - Exercícios de X a Y](https://www.youtube.com/watch?v=iLSgkWdepfA)
+- [Resolução 1 - Exercícios 01 e 02](https://www.youtube.com/watch?v=X73Iyq1M688)
+- [Resolução 2 - Exercícios 03 a 06](https://www.youtube.com/watch?v=iLSgkWdepfA)
 - Resolução 3 - Exercícios de X a Y
 
 
