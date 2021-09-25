@@ -19,5 +19,5 @@ Nessa parte do repositório você vai encontrar os códigos completos usados dur
 - [Aula 12](aula_12/)
 - [Aula 13](aula_13/)
 - [Aula 14](aula_14/)
-- [Aula 15](aula_15/)
+- [Aula 15](https://gitlab.com/dunossauro/aula_15)
 - [Aula 16](aula_16/)
